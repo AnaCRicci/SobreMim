@@ -13,13 +13,12 @@ ul{
 a{
     color: white;
     text-decoration: none;
-
 }
 img{
-    width: 150px;
+    width: 15opx;
     height: 150px;
     border-radius: 50%;
-    border: 5px solid red;
+    border: 5px solid #0000;
 }
 .center{
     text-align: center;
